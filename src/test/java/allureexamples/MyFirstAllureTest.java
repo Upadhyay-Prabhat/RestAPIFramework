@@ -16,6 +16,8 @@ public class MyFirstAllureTest {
 	@Test
 	public void tc1(){		
 		assertTrue(true);
+		
+		
 	}
 	
 	@Issue("https://www.youtube.com/")
